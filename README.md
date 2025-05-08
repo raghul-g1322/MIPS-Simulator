@@ -5,12 +5,19 @@ This project is a MIPS Instruction Set Architecture (ISA) Simulator built in C l
 This simulator takes a 32-bit MIPS instruction as input, decodes it, and performs the corresponding operation, simulating the core functionalities of the MIPS architecture. It supports a wide range of MIPS instructions, including R-type, I-type, and J-type operations—covering everything from arithmetic and logical instructions and Branching.
 
 🚀 Features
+      
       ✅ Supports most MIPS instructions (R-type, I-type, and J-type)
+
       ✅ 32-bit instruction decoding and binary parsing
+
       ✅ Register file simulation with 32 registers
+
       ✅ Memory access instructions (load/store)
+
       ✅ Arithmetic, logical, shift, and branching operations
+
       ✅ Robust error handling and modular code structure
+
       ✅ Includes 50+ test cases for validation and verification
 
 🛠️ Technologies Used
